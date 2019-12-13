@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\VAMemory.dll
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Admin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
